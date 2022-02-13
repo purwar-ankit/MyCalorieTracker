@@ -3,6 +3,5 @@ apply {
 }
 
 dependencies {
-    //dependencies defined here will only be used in this module
 
 }
